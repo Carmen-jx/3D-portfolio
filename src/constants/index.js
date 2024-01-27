@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tictactoe, web } from "../assets/images";
+import { tictactoe, web } from "../assets/images";
 import {
     contact,
     css,
@@ -135,7 +135,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: '3D web portfolio',
         description: 'Designed and implemented a captivating 3D web portfolio, seamlessly blending web development technologies and design principles to create an immersive and visually striking online showcase.',
-        link: '',
+        link: 'https://github.com/Carmen-jx/3D-portfolio/tree/main',
     },
     {
         iconUrl: tictactoe,
