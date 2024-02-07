@@ -6,6 +6,7 @@ import Sky from '../models/Sky'
 import Bird from '../models/Bird'
 import { Rocket } from '../models/Rocket'
 import { HomeInfo } from '../components/HomeInfo'
+import { socialLinks } from '../constants'
 
 
 import { soundon} from '../assets/icons'
@@ -110,6 +111,14 @@ const Home = () => {
             className='w-10 h-10 cursor-pointer object-contain relative z-20'
             onClick={togglePlaylist}/>
             
+        </div>
+
+        <div className='absolute bottom-2 right-2'>
+            {socialLinks.map((socialLink, index) => (
+                <a key={index} href={socialLink.link} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', marginRight: '10px' }}>
+                    <img src={socialLink.iconUrl} alt={socialLink.name} style={{ width: '40px', height: '40px' }} />
+                </a>
+            ))}
         </div>
     
     </section>
