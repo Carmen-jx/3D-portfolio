@@ -153,14 +153,14 @@ Title: Crystal Planet
             scale={34.583}
           >
             <mesh
-              castShadow
-              receiveShadow
+              
+              
               geometry={nodes.saturn_saturn_0.geometry}
               material={materials.saturn}
             />
             <mesh
-              castShadow
-              receiveShadow
+              
+              
               geometry={nodes.saturn_ring_saturn_0.geometry}
               material={materials.ring_saturn}
             />
@@ -171,21 +171,21 @@ Title: Crystal Planet
             scale={17.48}
           >
             <mesh
-              castShadow
-              receiveShadow
+              
+              
               geometry={nodes.leaves_twig_0.geometry}
               material={materials.twig}
             />
             <mesh
-              castShadow
-              receiveShadow
+              
+              
               geometry={nodes.leaves_leaves_0.geometry}
               material={materials.leaves}
             />
           </group>
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-39.923, 18.022, 0]}
@@ -193,16 +193,16 @@ Title: Crystal Planet
             scale={3.467}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.main_planet_main_planet_0.geometry}
             material={materials.main_planet}
             rotation={[-Math.PI / 2, 0, -0.847]}
             scale={100}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.main_crystal_main_crystal_0.geometry}
             material={materials.main_crystal}
             position={[3.529, 19.086, 1.793]}
@@ -210,8 +210,8 @@ Title: Crystal Planet
             scale={9.084}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Sphere002_small_crystal_planet_0.geometry}
             material={materials.small_crystal_planet}
             position={[0, 130.374, 141.13]}
@@ -219,8 +219,8 @@ Title: Crystal Planet
             scale={34.583}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.tree_planet_tree_planet_0.geometry}
             material={materials.tree_planet}
             position={[-227.31, 34.287, -119.289]}
@@ -228,16 +228,16 @@ Title: Crystal Planet
             scale={100}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.small_rocks_small_rocks_0.geometry}
             material={materials.small_rocks}
             rotation={[-Math.PI / 2, 0, 0]}
             scale={100}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube002_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[85.164, 13.052, -31.456]}
@@ -245,8 +245,8 @@ Title: Crystal Planet
             scale={2.313}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube004_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[44.212, -56.715, -25.815]}
@@ -254,8 +254,8 @@ Title: Crystal Planet
             scale={0.259}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube005_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[36.214, -61.889, 25.339]}
@@ -263,8 +263,8 @@ Title: Crystal Planet
             scale={3.074}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube006_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[7.06, -51.557, 48.363]}
@@ -272,8 +272,8 @@ Title: Crystal Planet
             scale={0.944}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube007_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[5.453, -7.654, 72.878]}
@@ -281,8 +281,8 @@ Title: Crystal Planet
             scale={2.795}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube008_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-11.792, -76.734, 17.372]}
@@ -290,8 +290,8 @@ Title: Crystal Planet
             scale={3.229}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube009_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-43.976, -0.899, 60.239]}
@@ -299,8 +299,8 @@ Title: Crystal Planet
             scale={1.137}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube010_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-62.89, -37.026, 15.713]}
@@ -308,8 +308,8 @@ Title: Crystal Planet
             scale={1.212}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube011_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-75.239, 2.919, -3.344]}
@@ -317,8 +317,8 @@ Title: Crystal Planet
             scale={1.302}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube012_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-64.074, -55.76, -3.77]}
@@ -326,8 +326,8 @@ Title: Crystal Planet
             scale={2.576}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube013_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-58.722, 19.404, 18.922]}
@@ -335,8 +335,8 @@ Title: Crystal Planet
             scale={3.228}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube014_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-55.652, -10.96, -37.304]}
@@ -344,8 +344,8 @@ Title: Crystal Planet
             scale={0.366}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube015_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-30.557, -69.09, -27.038]}
@@ -353,8 +353,8 @@ Title: Crystal Planet
             scale={1.963}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube016_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-18.567, 18.854, -85.709]}
@@ -362,8 +362,8 @@ Title: Crystal Planet
             scale={2.331}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube017_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-26.654, -65.9, -34.78]}
@@ -371,8 +371,8 @@ Title: Crystal Planet
             scale={2.449}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube018_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-29.749, 19.5, -47.725]}
@@ -380,8 +380,8 @@ Title: Crystal Planet
             scale={0.019}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube019_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-11.035, 19.501, -14.841]}
@@ -389,8 +389,8 @@ Title: Crystal Planet
             scale={2.237}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube020_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-39.395, 4.009, -62.554]}
@@ -398,8 +398,8 @@ Title: Crystal Planet
             scale={2.886}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube021_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-9.326, 19.293, 81.479]}
@@ -407,8 +407,8 @@ Title: Crystal Planet
             scale={0.724}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube022_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[22.371, 19.396, 37.562]}
@@ -416,8 +416,8 @@ Title: Crystal Planet
             scale={1.41}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube023_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[15.754, 17.089, 89.082]}
@@ -425,8 +425,8 @@ Title: Crystal Planet
             scale={1.829}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube024_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-5.111, 19.495, -52.034]}
@@ -434,8 +434,8 @@ Title: Crystal Planet
             scale={2.199}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube025_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[15.672, 19.368, -18.395]}
@@ -443,8 +443,8 @@ Title: Crystal Planet
             scale={1.417}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube026_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[4.281, 19.491, -5.846]}
@@ -452,8 +452,8 @@ Title: Crystal Planet
             scale={3.422}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube027_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[25.709, 19.011, -28.488]}
@@ -461,8 +461,8 @@ Title: Crystal Planet
             scale={1.227}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube028_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[64.212, 17.21, -47.115]}
@@ -470,8 +470,8 @@ Title: Crystal Planet
             scale={0.963}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube029_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[58.996, 19.495, 37.836]}
@@ -479,8 +479,8 @@ Title: Crystal Planet
             scale={1.237}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube030_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[15.69, -63.628, -35.382]}
@@ -488,8 +488,8 @@ Title: Crystal Planet
             scale={0.115}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube031_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[48.241, -8.782, -49.983]}
@@ -497,8 +497,8 @@ Title: Crystal Planet
             scale={0.571}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube032_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[58.867, 0.501, -51.409]}
@@ -506,8 +506,8 @@ Title: Crystal Planet
             scale={1.993}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube033_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-2.905, -72.149, 10.341]}
@@ -515,8 +515,8 @@ Title: Crystal Planet
             scale={1.767}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube034_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[85.164, 13.052, -31.456]}
@@ -524,8 +524,8 @@ Title: Crystal Planet
             scale={2.313}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube035_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[44.212, -56.715, -25.815]}
@@ -533,8 +533,8 @@ Title: Crystal Planet
             scale={0.259}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube036_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[36.214, -61.889, 25.339]}
@@ -542,8 +542,8 @@ Title: Crystal Planet
             scale={3.074}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube037_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[7.06, -51.557, 48.363]}
@@ -551,8 +551,8 @@ Title: Crystal Planet
             scale={0.944}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube038_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[5.453, -7.654, 72.878]}
@@ -560,8 +560,7 @@ Title: Crystal Planet
             scale={2.795}
           />
           <mesh
-            castShadow
-            receiveShadow
+       
             geometry={nodes.Cube039_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-11.792, -76.734, 17.372]}
@@ -569,8 +568,7 @@ Title: Crystal Planet
             scale={3.229}
           />
           <mesh
-            castShadow
-            receiveShadow
+     
             geometry={nodes.Cube040_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-43.976, -0.899, 60.239]}
@@ -578,8 +576,7 @@ Title: Crystal Planet
             scale={1.137}
           />
           <mesh
-            castShadow
-            receiveShadow
+       
             geometry={nodes.Cube041_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-62.89, -37.026, 15.713]}
@@ -587,8 +584,7 @@ Title: Crystal Planet
             scale={1.212}
           />
           <mesh
-            castShadow
-            receiveShadow
+     
             geometry={nodes.Cube042_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-75.239, 2.919, -3.344]}
@@ -596,8 +592,7 @@ Title: Crystal Planet
             scale={1.302}
           />
           <mesh
-            castShadow
-            receiveShadow
+      
             geometry={nodes.Cube043_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-64.074, -55.76, -3.77]}
@@ -605,8 +600,7 @@ Title: Crystal Planet
             scale={2.576}
           />
           <mesh
-            castShadow
-            receiveShadow
+      
             geometry={nodes.Cube044_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-58.722, 19.404, 18.922]}
@@ -614,8 +608,7 @@ Title: Crystal Planet
             scale={3.228}
           />
           <mesh
-            castShadow
-            receiveShadow
+       
             geometry={nodes.Cube045_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-55.652, -10.96, -37.304]}
@@ -623,8 +616,7 @@ Title: Crystal Planet
             scale={0.366}
           />
           <mesh
-            castShadow
-            receiveShadow
+   
             geometry={nodes.Cube046_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-30.557, -69.09, -27.038]}
@@ -632,8 +624,7 @@ Title: Crystal Planet
             scale={1.963}
           />
           <mesh
-            castShadow
-            receiveShadow
+ 
             geometry={nodes.Cube047_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-18.567, 18.854, -85.709]}
@@ -641,8 +632,7 @@ Title: Crystal Planet
             scale={2.331}
           />
           <mesh
-            castShadow
-            receiveShadow
+        
             geometry={nodes.Cube048_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-26.654, -65.9, -34.78]}
@@ -650,8 +640,7 @@ Title: Crystal Planet
             scale={2.449}
           />
           <mesh
-            castShadow
-            receiveShadow
+     
             geometry={nodes.Cube049_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-29.749, 19.5, -47.725]}
@@ -659,8 +648,7 @@ Title: Crystal Planet
             scale={0.019}
           />
           <mesh
-            castShadow
-            receiveShadow
+      
             geometry={nodes.Cube050_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-11.035, 19.501, -14.841]}
@@ -668,8 +656,7 @@ Title: Crystal Planet
             scale={2.237}
           />
           <mesh
-            castShadow
-            receiveShadow
+     
             geometry={nodes.Cube051_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-39.395, 4.009, -62.554]}
@@ -677,8 +664,7 @@ Title: Crystal Planet
             scale={2.886}
           />
           <mesh
-            castShadow
-            receiveShadow
+         
             geometry={nodes.Cube052_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-9.326, 19.293, 81.479]}
@@ -686,8 +672,7 @@ Title: Crystal Planet
             scale={0.724}
           />
           <mesh
-            castShadow
-            receiveShadow
+        
             geometry={nodes.Cube053_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[22.371, 19.396, 37.562]}
@@ -695,8 +680,7 @@ Title: Crystal Planet
             scale={1.41}
           />
           <mesh
-            castShadow
-            receiveShadow
+       
             geometry={nodes.Cube054_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[15.754, 17.089, 89.082]}
@@ -704,8 +688,7 @@ Title: Crystal Planet
             scale={1.829}
           />
           <mesh
-            castShadow
-            receiveShadow
+          
             geometry={nodes.Cube055_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-5.111, 19.495, -52.034]}
@@ -713,8 +696,7 @@ Title: Crystal Planet
             scale={2.199}
           />
           <mesh
-            castShadow
-            receiveShadow
+        
             geometry={nodes.Cube056_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[15.672, 19.368, -18.395]}
@@ -722,8 +704,7 @@ Title: Crystal Planet
             scale={1.417}
           />
           <mesh
-            castShadow
-            receiveShadow
+       
             geometry={nodes.Cube057_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[4.281, 19.491, -5.846]}
@@ -731,8 +712,7 @@ Title: Crystal Planet
             scale={3.422}
           />
           <mesh
-            castShadow
-            receiveShadow
+        
             geometry={nodes.Cube058_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[25.709, 19.011, -28.488]}
@@ -740,8 +720,7 @@ Title: Crystal Planet
             scale={1.227}
           />
           <mesh
-            castShadow
-            receiveShadow
+       
             geometry={nodes.Cube059_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[64.212, 17.21, -47.115]}
@@ -749,8 +728,7 @@ Title: Crystal Planet
             scale={0.963}
           />
           <mesh
-            castShadow
-            receiveShadow
+        
             geometry={nodes.Cube060_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[58.996, 19.495, 37.836]}
@@ -758,8 +736,7 @@ Title: Crystal Planet
             scale={1.237}
           />
           <mesh
-            castShadow
-            receiveShadow
+      
             geometry={nodes.Cube061_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[15.69, -63.628, -35.382]}
@@ -767,8 +744,7 @@ Title: Crystal Planet
             scale={0.115}
           />
           <mesh
-            castShadow
-            receiveShadow
+        
             geometry={nodes.Cube062_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[48.241, -8.782, -49.983]}
@@ -776,8 +752,7 @@ Title: Crystal Planet
             scale={0.571}
           />
           <mesh
-            castShadow
-            receiveShadow
+    
             geometry={nodes.Cube063_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[58.867, 0.501, -51.409]}
@@ -785,8 +760,6 @@ Title: Crystal Planet
             scale={1.993}
           />
           <mesh
-            castShadow
-            receiveShadow
             geometry={nodes.Cube064_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-2.905, -72.149, 10.341]}
@@ -794,8 +767,7 @@ Title: Crystal Planet
             scale={1.767}
           />
           <mesh
-            castShadow
-            receiveShadow
+    
             geometry={nodes.Cube065_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[6.219, 129.579, 107.238]}
@@ -803,8 +775,7 @@ Title: Crystal Planet
             scale={2.313}
           />
           <mesh
-            castShadow
-            receiveShadow
+ 
             geometry={nodes.Cube066_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[5.547, 157.255, 120.457]}
@@ -812,8 +783,8 @@ Title: Crystal Planet
             scale={0.259}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube067_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[27.133, 138.293, 121.542]}
@@ -821,8 +792,8 @@ Title: Crystal Planet
             scale={3.074}
           />
           <mesh
-            castShadow
-            receiveShadow
+            
+            
             geometry={nodes.Cube068_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[23.802, 105.414, 140.785]}
@@ -830,8 +801,7 @@ Title: Crystal Planet
             scale={0.944}
           />
           <mesh
-            castShadow
-            receiveShadow
+    
             geometry={nodes.Cube069_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[32.638, 120.801, 136.84]}
@@ -839,8 +809,7 @@ Title: Crystal Planet
             scale={2.795}
           />
           <mesh
-            castShadow
-            receiveShadow
+          
             geometry={nodes.Cube070_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[29.314, 144.689, 152.049]}
@@ -848,8 +817,7 @@ Title: Crystal Planet
             scale={3.229}
           />
           <mesh
-            castShadow
-            receiveShadow
+        
             geometry={nodes.Cube071_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[29.873, 142.844, 152.981]}
@@ -857,8 +825,7 @@ Title: Crystal Planet
             scale={1.137}
           />
           <mesh
-            castShadow
-            receiveShadow
+       
             geometry={nodes.Cube072_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[26.112, 120.801, 161.175]}
@@ -866,8 +833,7 @@ Title: Crystal Planet
             scale={1.212}
           />
           <mesh
-            castShadow
-            receiveShadow
+          
             geometry={nodes.Cube073_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[14.737, 106.868, 161.518]}
@@ -875,8 +841,7 @@ Title: Crystal Planet
             scale={1.302}
           />
           <mesh
-            castShadow
-            receiveShadow
+      
             geometry={nodes.Cube074_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[18.255, 142.844, 167.58]}
@@ -884,8 +849,7 @@ Title: Crystal Planet
             scale={2.576}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube075_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[2.052, 160.932, 156.767]}
@@ -893,8 +857,7 @@ Title: Crystal Planet
             scale={3.228}
           />
           <mesh
-            castShadow
-            receiveShadow
+     
             geometry={nodes.Cube076_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-5.335, 138.293, 174.167]}
@@ -902,8 +865,7 @@ Title: Crystal Planet
             scale={0.366}
           />
           <mesh
-            castShadow
-            receiveShadow
+          
             geometry={nodes.Cube077_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-6.219, 129.579, 175.022]}
@@ -911,8 +873,7 @@ Title: Crystal Planet
             scale={1.963}
           />
           <mesh
-            castShadow
-            receiveShadow
+     
             geometry={nodes.Cube078_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-15.109, 127.434, 171.751]}
@@ -920,8 +881,7 @@ Title: Crystal Planet
             scale={2.331}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube079_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-23.108, 124.847, 165.986]}
@@ -929,8 +889,7 @@ Title: Crystal Planet
             scale={2.449}
           />
           <mesh
-            castShadow
-            receiveShadow
+   
             geometry={nodes.Cube080_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-9.685, 161.948, 151.126]}
@@ -938,8 +897,7 @@ Title: Crystal Planet
             scale={0.019}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube081_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-13.441, 104.047, 158.642]}
@@ -947,8 +905,7 @@ Title: Crystal Planet
             scale={2.237}
           />
           <mesh
-            castShadow
-            receiveShadow
+    
             geometry={nodes.Cube082_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-9.707, 99.002, 151.592]}
@@ -956,8 +913,7 @@ Title: Crystal Planet
             scale={2.886}
           />
           <mesh
-            castShadow
-            receiveShadow
+    
             geometry={nodes.Cube083_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-21.859, 105.414, 150.557]}
@@ -965,8 +921,7 @@ Title: Crystal Planet
             scale={0.724}
           />
           <mesh
-            castShadow
-            receiveShadow
+         
             geometry={nodes.Cube084_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-32.336, 127.434, 152.098]}
@@ -974,8 +929,7 @@ Title: Crystal Planet
             scale={1.41}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube085_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-32.19, 118.313, 142.306]}
@@ -983,8 +937,7 @@ Title: Crystal Planet
             scale={1.829}
           />
           <mesh
-            castShadow
-            receiveShadow
+    
             geometry={nodes.Cube086_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-24.923, 154.21, 141.51]}
@@ -992,8 +945,7 @@ Title: Crystal Planet
             scale={2.199}
           />
           <mesh
-            castShadow
-            receiveShadow
+ 
             geometry={nodes.Cube087_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-22.028, 104.047, 139.683]}
@@ -1001,8 +953,7 @@ Title: Crystal Planet
             scale={1.417}
           />
           <mesh
-            castShadow
-            receiveShadow
+  
             geometry={nodes.Cube088_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-19.846, 102.397, 137.941]}
@@ -1010,8 +961,7 @@ Title: Crystal Planet
             scale={3.422}
           />
           <mesh
-            castShadow
-            receiveShadow
+   
             geometry={nodes.Cube089_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-23.171, 154.21, 131.944]}
@@ -1019,8 +969,7 @@ Title: Crystal Planet
             scale={1.227}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube090_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-29.521, 120.801, 126.564]}
@@ -1028,8 +977,7 @@ Title: Crystal Planet
             scale={0.963}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube091_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-20.116, 131.594, 113.271]}
@@ -1037,8 +985,7 @@ Title: Crystal Planet
             scale={1.237}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube092_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-16.014, 110.544, 117.905]}
@@ -1046,8 +993,7 @@ Title: Crystal Planet
             scale={0.115}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube093_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-9.775, 114.535, 112.316]}
@@ -1055,8 +1001,7 @@ Title: Crystal Planet
             scale={0.571}
           />
           <mesh
-            castShadow
-            receiveShadow
+
             geometry={nodes.Cube094_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-0.926, 106.868, 115.99]}
@@ -1064,8 +1009,7 @@ Title: Crystal Planet
             scale={1.993}
           />
           <mesh
-            castShadow
-            receiveShadow
+ 
             geometry={nodes.Cube095_Material001_0.geometry}
             material={materials["Material.001"]}
             position={[-0.483, 142.844, 108.996]}
@@ -1073,8 +1017,7 @@ Title: Crystal Planet
             scale={1.767}
           />
           <mesh
-            castShadow
-            receiveShadow
+  
             geometry={nodes.tree_bark_tree_bark_0.geometry}
             material={materials.tree_bark}
             position={[-230.168, 77.842, -124.705]}
