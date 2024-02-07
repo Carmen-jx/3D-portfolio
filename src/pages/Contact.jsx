@@ -6,6 +6,7 @@ import { OrbitControls } from "@react-three/drei";
 import { Shiba} from '../models/Shiba';
 import useAlert from "../hooks/useAlert";
 import { Alert } from '../components/Alert';
+import { socialLinks } from '../constants';
 
 
 const Contact = () => {
@@ -57,6 +58,7 @@ const Contact = () => {
   };
 
   return (
+    <>
     <section className='relative flex lg:flex-row flex-col max-container h-[100vh]'>
       {alert.show && <Alert {...alert} />}
 
@@ -112,7 +114,16 @@ const Contact = () => {
           </button>
 
         </form>
+        <br/>
+        <div>
+            {socialLinks.map((socialLink, index) => (
+                <a key={index} href={socialLink.link} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-block', marginRight: '10px' }}>
+                    <img src={socialLink.iconUrl} alt={socialLink.name} style={{ width: '50px', height: '50px' }} />
+                </a>
+            ))}
+        </div>
       </div>
+      
 
       <div className='= "lg:w-1/2 w-1/2 lg:h-auto md:h-[500px] h-[350px]'>
        
@@ -143,6 +154,8 @@ const Contact = () => {
         </div>
       </div>
     </section>
+  
+    </>
   )
 }
 
