@@ -1,5 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import { socialLinks } from '../constants'
 
 const NavBar = () => {
   return (
@@ -12,8 +13,11 @@ const NavBar = () => {
             <NavLink to="/about" className={({isActive})=> isActive? 'text-blue-900' : 'text-slate-500'}> About</NavLink>
             <NavLink to="/projects" className={({isActive})=> isActive? 'text-blue-900' : 'text-slate-500'}> Projects</NavLink>
             <NavLink to="/contact" className={({isActive})=> isActive? 'text-blue-900' : 'text-slate-500'}> Contact</NavLink>
-            
         </nav>
+    
+        
+
+
 
     </header>
   )
