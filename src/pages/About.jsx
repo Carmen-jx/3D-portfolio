@@ -3,7 +3,7 @@ import { experiences, skills } from '../constants'
 import { VerticalTimeline, VerticalTimelineElement } from 'react-vertical-timeline-component'
 import "react-vertical-timeline-component/style.min.css";
 import CTA from '../components/CTA';
-import Sky from '../models/Sky';
+
 
 const About = () => {
   return (

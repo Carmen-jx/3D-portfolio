@@ -2,6 +2,7 @@ import React from 'react'
 import { projects } from '../constants'
 import { Link } from 'react-router-dom'
 import { arrow } from '../assets/icons'
+import CTA from '../components/CTA';
 
 const Projects = () => {
   return (
@@ -14,7 +15,7 @@ const Projects = () => {
 
     <div className='mt-5 flex flex-col gap-3 text-slate-300'>
       <p>
-        tbd
+        Here are a few of my personal projects... and tune in for some more in the near future.
       </p>
     </div>
 
@@ -57,6 +58,9 @@ const Projects = () => {
         </div>
       ))}
     </div>
+
+    <hr className='border-slate-200'/>
+    <CTA/>
   </section>
   )
 }

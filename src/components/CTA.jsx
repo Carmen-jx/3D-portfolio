@@ -1,5 +1,6 @@
 
 import { Link } from 'react-router-dom'
+import { socialLinks } from '../constants'
 
 const CTA = () => {
   return (
@@ -10,6 +11,7 @@ const CTA = () => {
         <Link to="/contact" className='btn'>
             Contact Me
         </Link>
+       
     </section>
   )
 }
